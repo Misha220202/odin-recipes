@@ -1,0 +1,28 @@
+h1{
+    color: rgb(255, 0, 255);
+}
+
+h1.recipes{
+    color: rgb(0, 0, 255);
+}
+
+ul,
+ol,
+p{
+    font-size: 20px;
+}
+
+.homepage.icon{
+    width: auto;
+    height: 200px;
+}
+
+img.description{
+    width: auto;
+    height: 500px;
+}
+
+img.steps{
+    width: auto;
+    height: 400px;
+}
